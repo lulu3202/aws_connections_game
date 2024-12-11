@@ -1,6 +1,7 @@
 # Minimalist Connections Game
 
 A fun and interactive word association game built using **Streamlit** and **AWS S3**, inspired by popular NYT connections game. 
+Live Game: https://awsconnectionsgame.streamlit.app/
 ---
 ## Technologies Used
 - Python: Handles game logic, word selection, and user interaction.
